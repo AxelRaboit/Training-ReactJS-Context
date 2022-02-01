@@ -10,4 +10,4 @@ const MyContext = React.createContext(user); */
 
 const MyContext = React.createContext();
 
-export { MyContext }
+export default MyContext
